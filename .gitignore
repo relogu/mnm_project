@@ -1,0 +1,26 @@
+# old scripts
+*advect.py
+*traffic.py
+
+# outputs and results
+output*
+results*
+
+# papers to cite
+papers*
+
+# zip from overleaf
+*.zip
+
+# notebooks
+notebooks*
+
+# examples
+examples*
+
+# blocknotes
+blocknotes.md
+
+# pycaches
+__pycache__*
+*.ipynb*
